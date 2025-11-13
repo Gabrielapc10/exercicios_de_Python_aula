@@ -13,7 +13,7 @@ while True:
     print("4 - Monstrar a quantidade e media das notas")
     print("5 - Sair")
 
-    opcao = int(input("Escolha uma opção: "))
+    opcao =  int(input("Escolha uma opção: "))
     #se a opcao for igual a 1, Adicionar nota
     if opcao == 1:
         nota = float(input("Digite a nota: "))
